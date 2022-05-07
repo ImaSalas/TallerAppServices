@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'paginaEuropa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E7D88A17854E468C91387C40DBE155EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E41A9D91A344B2389A922EB9293CD07 }}
           package: .
